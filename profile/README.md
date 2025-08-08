@@ -1,28 +1,21 @@
-# Welcome to BOVi Re 🚀
+# AvcFurTeam
 
-## 🌟 Our Mission
-At BOVi Re, we believe that mission is a game, and the game is life. Our goal is to innovate and inspire through our initiatives and community efforts.
+We are a small group of friends just starting our journey in development.  
+Previously known as **AvcVoid**, and before that **Bovi**.  
+We don’t have any finished projects yet, but we have ideas and the drive to learn.
 
-## 🎮 What We Do
-We are passionate about creating engaging and impactful experiences. Our team is dedicated to:
-- Creating atmospheric games and useful application-websites
-- Building a community of like-minded individuals who share our vision
-- Providing resources and support to help others achieve their goals
+## What we plan to do
+- Experiment with creating games and small applications
+- Learn new technologies and programming languages
+- Build small utilities for ourselves and friends
+- Work on projects with atmosphere and story
 
-## 🤝 Join Our Community
-Become a part of our vibrant community:
-- ⭐ Report issues and share your thoughts
-- 🔧 Contribute by submitting pull requests
-- 💬 Engage in lively discussions and provide feedback
+## Our approach
+We do this primarily for fun and experience.  
+Our main goals are to learn, try new things, and support each other.
 
-## 📬 Contact Us
-Have questions or want to connect? Reach out to us at [boolvingin@gmail.com](mailto:boolvingin@gmail.com).
-
-## 🌐 Stay Connected
-Follow us on social media and stay updated with our latest news:
-- [📬 Email](mailto:boolvingin@gmail.com)
-- [🔗 Linksta](https://linksta.cc/@BOVi_Re)
-- [🚧 Website (WIP)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-Thank you for visiting our organization profile! Together, we can achieve greatness. 🌍✨
-arg WIP
+## Contacts
+- GitHub: [AvcFurTeam](https://github.com/AvcFurTeam)
+- Email [AvcFurTeam](mailto:boolvingin@gmail.com)
+- Linksta [AvcFurTeam](https://linksta.cc/@BOVi_Re)
+- [Website (WIP)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
