@@ -1,7 +1,7 @@
-# AvcFurTeam
+# PuffSpark
 
 We are a small group of friends just starting our journey in development.  
-Previously known as **AvcVoid**, and before that **Bovi**.  
+Previously known as **AvcFurTeam** **AvcVoid**, and before that **Bovi**.  
 We don’t have any finished projects yet, but we have ideas and the drive to learn.
 
 ## What we plan to do
@@ -15,7 +15,7 @@ We do this primarily for fun and experience.
 Our main goals are to learn, try new things, and support each other.
 
 ## Contacts
-- GitHub: [AvcFurTeam](https://github.com/AvcFurTeam)
-- Email [AvcFurTeam](mailto:boolvingin@gmail.com)
-- Linksta [AvcFurTeam](https://linksta.cc/@BOVi_Re)
+- GitHub: [PuffSpark](https://github.com/PuffSpark)
+- Email [PuffSpark](mailto:boolvingin@gmail.com)
+- Linksta [PuffSpark](https://linksta.cc/@BOVi_Re)
 - [Website (WIP)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
