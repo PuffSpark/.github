@@ -17,5 +17,6 @@ Our main goals are to learn, try new things, and support each other.
 ## Contacts
 - GitHub: [PuffSpark](https://github.com/PuffSpark)
 - Email [PuffSpark](mailto:PuffSpark@gmail.com)
-- Linksta [PuffSpark](https://linksta.cc/@BOVi_Re)
+- Linksta [PuffSpark](https://github.com/PuffSpark)
 - [Website (WIP)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+- [Real Website](puffspark.pages.dev)
