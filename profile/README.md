@@ -19,4 +19,4 @@ Our main goals are to learn, try new things, and support each other.
 - Email [PuffSpark](mailto:PuffSparkTeam@gmail.com)
 - Linksta [PuffSpark](https://github.com/PuffSpark)
 - [Website (WIP)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-- [Real Website](puffspark.pages.dev)
+- [Real Website](https://puffspark.pages.dev)
